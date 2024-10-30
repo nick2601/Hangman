@@ -1,4 +1,4 @@
-# Guess the Image
+# Guess the Name
 
 
 A simple Android quiz app that allows a user to select a correct answer to each question (any question can be skipped), given a hint by an image.
